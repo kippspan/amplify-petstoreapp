@@ -88,7 +88,7 @@ function App({ user, signOut} ) {
         cursor: "pointer"
       },
       onClick: () => {
-        saveFile();
+        // saveFile();
         setShowForm(!showForm);
         setUpdatePet(false);
         setPet(true)
