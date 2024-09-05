@@ -1,2 +1,0 @@
-# amplify-petstoreapp
-## Hello 
